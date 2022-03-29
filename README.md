@@ -1,2 +1,2 @@
 # desafio-Dio
-Repo do Desafio sobre Git da DIO
+Repo do Desafio sobre git da DIO
